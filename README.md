@@ -1,8 +1,8 @@
 # ChatApplication-NodeJS-MongoDB
 The Technologies used for building this application are:\
-\tFront-End Languages used are : HTML,CSS,BOOTSRAP,JS\
-\tBack-End Languages used are  : NodeJS,Express\
-\tDataBase used is             : MongoDB along with Mongoose
+\t Front-End Languages used are : HTML,CSS,BOOTSRAP,JS\
+\t Back-End Languages used are  : NodeJS,Express\
+\t DataBase used is             : MongoDB along with Mongoose
 
 This Application is to bring people and their ideas together.Communication is a mean for people to exchange messages.\
 This has ability to handle many number of users and as well as in group strength. Each user will be contain fields of name and password.More secure way of keeping room messages is by keeping Id of Room in secrecy manner(not sharing with non-group members).\
