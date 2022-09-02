@@ -7,7 +7,7 @@ The Technologies used for building this application are:
 This Application is to bring people and their ideas together.Communication is a mean for people to exchange messages.\
 This has ability to handle many number of users and as well as in group strength. Each user will be contain fields of name and password.More secure way of keeping room messages is by keeping Id of Room in secrecy manner(not sharing with non-group members).\
 **WebSite Screenshots:**\
-**Home Page: ** \
+**Home Page:**\
 ![image](https://user-images.githubusercontent.com/90261006/188119674-d2093739-62f4-411c-b07c-2e94305380bf.png) \
 This is the basic web page or say index page when the website loads.
 
