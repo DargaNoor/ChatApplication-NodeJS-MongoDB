@@ -62,7 +62,7 @@ app.use('/createroom',taskscreate)
 const port=3000;
 
 const start= async()=>{
-    const uri="mongodb://noor:Noor2001@nodeexpressprojects-shard-00-00.q9ceo.mongodb.net:27017,nodeexpressprojects-shard-00-01.q9ceo.mongodb.net:27017,nodeexpressprojects-shard-00-02.q9ceo.mongodb.net:27017/?ssl=true&replicaSet=atlas-nbtph7-shard-0&authSource=admin&retryWrites=true&w=majority"
+    //const uri="here_paste_your_mongobd-urri"
     const client=new MongoClient(uri)
     try {
         await connectdb(process.env.MONGO_URRI)
